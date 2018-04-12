@@ -1,15 +1,18 @@
 $(document).ready(function(){
-	// $.getJSON( "js/ajax/signatories.json", function( data ) {
-	// 	var items = [];
-	// 	$.each( data, function( key, val ) {
-	// 		items.push( "<li id='" + key + "'>" + val + "</li>" );
-	// 	});
+	$.getJSON( "js/ajax/signatories.json", function(data) {
+		console.log("json data: " + data.signatories.length);
+		$.each(data.signatories, function(key, val) {
+			// items.push( "<li id='" + key + "'>" + val + "</li>" );
+			var signatory_name = val.name;
+			var signatory_job = val.job;
+			var signatory_quote = val.quote;
+			var signatory_image = val.image_url;
 
-	// 	$( "<ul/>", {
-	// 		"class": "my-new-list",
-	// 		html: items.join( "" )
-	// 	}).appendTo( "body" );
-	// });
+			var signatory_card = '<div class="signatory_card"> <figure class="signatory_photo"> <img src="' + signatory_image + '" alt="' + signatory_name + '" > </figure> <div class="signatory_content"> <p class="quote">"' + signatory_quote + '" </p> <p class="author"> <span class="name">' + signatory_name + ',&nbsp;</span> <span class="job_title">' + signatory_job + '</span> </p> </div> </div>';
+
+			$(".signatories_wrapper").append(signatory_card);
+		});
+	});
 
 	var throttle = function throttle(func, limit) {
 		var lastFunc = void 0;
@@ -51,8 +54,4 @@ $(document).ready(function(){
 		infiniteScrollAppend();
 	}, 500));
 });
-
-
-
-
 

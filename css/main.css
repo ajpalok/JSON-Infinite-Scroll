@@ -42,7 +42,7 @@ body {
   #infinite-scroll-wrapper .p-to-scroll:last-child {
     background-color: rgba(255, 0, 0, 0.2); }
 
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   #content-section {
     width: 100%; } }
 .signatories__styling .people_title {
@@ -118,6 +118,7 @@ body {
 
 @media (max-width: 767.98px) {
   .signatories__styling .signatories_wrapper .signatory_card {
-    width: 100%; } }
+    width: 100%;
+    border-bottom: 1px solid #ddd; } }
 
 /*# sourceMappingURL=main.css.map */

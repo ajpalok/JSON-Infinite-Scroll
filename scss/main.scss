@@ -52,7 +52,7 @@ body{
 	}
 }
 
-@media (max-width: 767.98px){
+@media (max-width: 1199.98px){
 	#content-section{
 		width: 100%;
 	}
@@ -154,6 +154,7 @@ body{
 		.signatories_wrapper{
 			.signatory_card{
 				width: 100%;
+				border-bottom: 1px solid #ddd;
 			}
 		}
 	}
