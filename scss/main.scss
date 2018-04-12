@@ -1,0 +1,161 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	color: #ddd;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #202020;
+}
+
+#hero-section{
+	position: relative;
+	width: 100%;
+	height: 200px;
+	padding: 20px 100px;
+	background-color: rgba(255,255,255,0.2);
+}
+
+#content-section{
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+	padding: 20px 1.5%;
+}
+
+#infinite-scroll-wrapper{
+	position: relative;
+	width: 100%;
+	background-color: rgba(255,255,255,0.3);
+	box-shadow: 0 0 8px 0 black;
+
+	.block-to-scroll{
+		position: relative;
+		width: 100%;
+		height: 100vw;
+		text-align: center;
+		padding-top: 20px;
+		background-color: rgba(0,0,255,0.3);
+	}
+
+	.p-to-scroll{
+		position: relative;
+		width: 100%;
+		height: 100px;
+		text-align: center;
+		background-color: rgba(0,255,0,0.2);
+	}
+	.p-to-scroll:last-child{
+		background-color: rgba(255,0,0,0.2);
+	}
+}
+
+@media (max-width: 767.98px){
+	#content-section{
+		width: 100%;
+	}
+}
+
+
+.signatories__styling{
+	.people_title{
+		position: relative;
+		width: 100%;
+		padding: 20px 0;
+		margin-bottom: 20px;
+		text-align: center;
+		text-transform: uppercase;
+		
+		h3{
+			position: relative;
+			display: inline-block;
+
+			&::after{
+				content: "";
+				position: absolute;
+				width: 100%;
+				height: 3px;
+				float: left;
+				left: 0;
+				bottom: -10px;
+				background-color: #9ac760;
+			}
+		}
+	}
+
+	.signatories_wrapper{
+		position: relative;
+		width: 100%;
+		
+		.signatory_card{
+			position: relative;
+			float: left;
+			display: flex;
+			align-items: center;
+			width: 50%;
+			height: 200px;
+			padding: 20px;
+			box-sizing: border-box;
+			background-color: #fff;
+
+			.signatory_photo{
+				position: relative;
+				float: left;
+				display: inline-block;
+				width: 30%;
+				margin-right: 5%;
+				height: 100%;
+
+				img{
+					position: absolute;
+					width: 100px;
+					margin: auto;
+					top: 0; bottom: 0;
+					left: 0; right: 0;
+					border-radius: 50%;
+				}
+			}
+			.signatory_content{
+				position: relative;
+				float: left;
+				display: inline-block;
+				width: 60%;
+
+				.quote{
+					position: relative;
+					width: 100%;
+					margin-bottom: 15px;
+					display: block;
+					font-size: 16px;
+					color: #000;
+					font-weight: bolder;
+				}
+				.author{
+					position: relative;
+					width: 100%;
+					display: block;
+					font-size: 12px;
+					color: #777;
+
+					.name{
+						color: #444;
+						font-weight: bolder;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 767.98px){
+	.signatories__styling{
+		.signatories_wrapper{
+			.signatory_card{
+				width: 100%;
+			}
+		}
+	}
+}
+
