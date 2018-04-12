@@ -1,52 +1,184 @@
 {
    "signatories": [
     	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 1",
+			"name": "Name 1",
+			"job": "Job 1",
+			"image_url": "http://via.placeholder.com/150x150"
        	},
        	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 2",
+			"name": "Name 2",
+			"job": "Job 2",
+			"image_url": "http://via.placeholder.com/150x150"
        	},
        	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 3",
+			"name": "Name 3",
+			"job": "Job 3",
+			"image_url": "http://via.placeholder.com/150x150"
        	},
        	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 4",
+			"name": "Name 4",
+			"job": "Job 4",
+			"image_url": "http://via.placeholder.com/150x150"
        	},
        	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 5",
+			"name": "Name 5",
+			"job": "Job 5",
+			"image_url": "http://via.placeholder.com/150x150"
        	},
        	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 6",
+			"name": "Name 6",
+			"job": "Job 6",
+			"image_url": "http://via.placeholder.com/150x150"
        	},
        	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 7",
+			"name": "Name 7",
+			"job": "Job 7",
+			"image_url": "http://via.placeholder.com/150x150"
        	},
        	{
-			"quote": "Moving to this technology to land will save jobs, while keeping what makes BC, well BC, for all of us and the next generation.",
-			"name": "Willie Mitchell",
-			"job": "President/Partner, Tofino Resort &amp; Marina",
-			"image_url": "https://d3n8a8pro7vhmx.cloudfront.net/safesalmon/pages/13/attachments/original/1523373030/Willy-Mitchell.jpg?1523373030"
+			"quote": "Quote 8",
+			"name": "Name 8",
+			"job": "Job 8",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 9",
+			"name": "Name 9",
+			"job": "Job 9",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 10",
+			"name": "Name 10",
+			"job": "Job 10",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 11",
+			"name": "Name 11",
+			"job": "Job 11",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 12",
+			"name": "Name 12",
+			"job": "Job 12",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 13",
+			"name": "Name 13",
+			"job": "Job 13",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 14",
+			"name": "Name 14",
+			"job": "Job 14",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 15",
+			"name": "Name 15",
+			"job": "Job 15",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 16",
+			"name": "Name 16",
+			"job": "Job 16",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 17",
+			"name": "Name 17",
+			"job": "Job 17",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 18",
+			"name": "Name 18",
+			"job": "Job 18",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 19",
+			"name": "Name 19",
+			"job": "Job 19",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 20",
+			"name": "Name 20",
+			"job": "Job 20",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 21",
+			"name": "Name 21",
+			"job": "Job 21",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 22",
+			"name": "Name 22",
+			"job": "Job 22",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 23",
+			"name": "Name 23",
+			"job": "Job 23",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 24",
+			"name": "Name 24",
+			"job": "Job 24",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 25",
+			"name": "Name 25",
+			"job": "Job 25",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 26",
+			"name": "Name 26",
+			"job": "Job 26",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 27",
+			"name": "Name 27",
+			"job": "Job 27",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 28",
+			"name": "Name 28",
+			"job": "Job 28",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 29",
+			"name": "Name 29",
+			"job": "Job 29",
+			"image_url": "http://via.placeholder.com/150x150"
+       	},
+       	{
+			"quote": "Quote 30",
+			"name": "Name 30",
+			"job": "Job 30",
+			"image_url": "http://via.placeholder.com/150x150"
        	}
    ]
 }
